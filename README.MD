@@ -8,7 +8,7 @@ The chatbot uses llama index library and  utilizes a <b>local</b> LLM for embedd
 ### Screenshot of the App
 for the screenshot of the app, please check the screenshot folder
 
-### Video of the app running
+### Video of the app runnings
 you can find the video of app demo [here](https://drive.google.com/file/d/1Z3yXrxAgzT8PKbrKG6wOFTHSSqGObfFW/view?usp=drive_link)
 
 ## Getting Started
