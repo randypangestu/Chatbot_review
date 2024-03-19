@@ -1,11 +1,22 @@
 # Spotify Review Chatbot
 
+Welcome to the Spotify Review Chatbot project! This interactive chatbot offers a unique way to delve into Spotify reviews from the Google Play Store. By leveraging advanced language models (LLMs), it provides insightful analyses and responses to user queries.
 
-This project is a Spotify review chatbot that allows users to interactively analyze the spotify review from google play store. 
+The chatbot uses llama index library and can utilizes a <b>local</b> LLM for both embedding generation and response (with Mistral7b) generation. This enables the chatbot to provide accurate and contextually relevant responses to user queries, without using chatGPT api
 
-The chatbot utilizes a <b>local</b> LLM for both embedding generation and response generation. This enables the chatbot to provide accurate and contextually relevant responses to user queries, without using chatGPT api
+# Features
+Text Generation Options:
+- Default: GPT3.5-turbo
+- Alternative: Mistral7b-4bit 
+
+Choose the model that best suits your needs for generating responses and insights.
 
 
+### Screenshot of the App
+for the screenshot of the app, please check the screenshot folder
+
+### Video of the app running
+you can find the video of app demo [here](https://drive.google.com/file/d/1Z3yXrxAgzT8PKbrKG6wOFTHSSqGObfFW/view?usp=drive_link)
 
 ## Getting Started
 
