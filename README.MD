@@ -42,6 +42,7 @@ To install the required dependencies, run the following command:
 ```
 pip install -r requirements.txt
 ```
+notes: the requirements might not be completed, some packages might be missing from the list
 ## Dependencies
 
 Make sure you have the following dependencies installed:
