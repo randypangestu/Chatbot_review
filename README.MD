@@ -12,8 +12,8 @@ for the screenshot of the app, please check the screenshot folder
 you can find the video of app demo [here](https://drive.google.com/file/d/1Z3yXrxAgzT8PKbrKG6wOFTHSSqGObfFW/view?usp=drive_link)
 
 ## Getting Started
-
-To run this project for the first time, please follow the steps below:
+ 
+To run this project for the first time, please follow these steps:
 
 1. Download the Spotify review dataset from [here](https://drive.google.com/file/d/1_xaRB6d2K_9-1dUmdU0GjtaqPO7uQnTM/view).
 2. Run the Python script `data_preprocessing.py` with the path to the Spotify review dataset as an argument.
