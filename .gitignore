@@ -1,3 +1,4 @@
 dataset_review/*
 chat_history.txt
 embedding_storage/*
+*.pyc

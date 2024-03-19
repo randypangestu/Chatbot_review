@@ -1,6 +1,10 @@
 # Spotify Review Chatbot
 
-This project is a Spotify review chatbot that allows users to interactively analyze the spotify review from google play store.
+
+This project is a Spotify review chatbot that allows users to interactively analyze the spotify review from google play store. 
+
+The chatbot utilizes a <b>local</b> LLM for both embedding generation and response generation. This enables the chatbot to provide accurate and contextually relevant responses to user queries, without using chatGPT api
+
 
 
 ## Getting Started
@@ -31,6 +35,6 @@ pip install -r requirements.txt
 
 Make sure you have the following dependencies installed:
 
-- Python 3.x
+- llamaindex
 - Streamlit
-- [Add any other dependencies here]
+- pandas
